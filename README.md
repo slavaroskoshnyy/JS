@@ -8,4 +8,4 @@
   * [Репазиторий в GitHub](https://github.com/slavaroskoshnyy/block-commit).
 
 
-### Так же я учился писать Unit test on Just, но дынный репазиторие куда-то потерялся. 
+### Так же я учился писать Unit test on Just, но данный проект я не сохранил в GitHub. 
